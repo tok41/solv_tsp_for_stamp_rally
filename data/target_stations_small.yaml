@@ -1,0 +1,23 @@
+fares:
+  - stations: ["春日部", "大宮"]
+    fare: 324
+  - stations: ["春日部", "武蔵浦和"]
+    fare: 491
+  - stations: ["大宮", "蓮田"]
+    fare: 199
+  - stations: ["大宮", "上尾"]
+    fare: 199
+  - stations: ["大宮", "浦和"]
+    fare: 178  
+  - stations: ["大宮", "武蔵浦和"]
+    fare: 178
+  - stations: ["浦和", "赤羽"]
+    fare: 230
+  - stations: ["浦和", "武蔵浦和"]
+    fare: 167
+  # - stations: ["上尾", ""]
+  #   fare: 500
+  # - stations: ["蓮田", ""]
+  #   fare: 500
+  - stations: ["武蔵浦和", "赤羽"]
+    fare: 230

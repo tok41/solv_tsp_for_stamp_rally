@@ -1,0 +1,173 @@
+fares:
+  - stations: ["春日部", "大宮"]
+    fare: 324
+  - stations: ["春日部", "武蔵浦和"]
+    fare: 491
+  - stations: ["春日部", "越谷レイクタウン"]
+    fare: 407
+  - stations: ["春日部", "柏"]
+    fare: 429
+  - stations: ["春日部", "北千住"]
+    fare: 429
+  - stations: ["春日部", "松戸"]
+    fare: 579
+  - stations: ["春日部", "千葉"]
+    fare: 1085
+  - stations: ["春日部", "市川"]
+    fare: 911
+  - stations: ["春日部", "新浦安"]
+    fare: 1010
+  - stations: ["大宮", "蓮田"]
+    fare: 199
+  - stations: ["大宮", "上尾"]
+    fare: 199
+  - stations: ["大宮", "浦和"]
+    fare: 178  
+  - stations: ["大宮", "武蔵浦和"]
+    fare: 178
+  - stations: ["浦和", "赤羽"]
+    fare: 230
+  - stations: ["浦和", "武蔵浦和"]
+    fare: 167
+  - stations: ["浦和", "越谷レイクタウン"]
+    fare: 318
+  # - stations: ["上尾", ""]
+  #   fare: 500
+  # - stations: ["蓮田", ""]
+  #   fare: 500
+  - stations: ["武蔵浦和", "越谷レイクタウン"]
+    fare: 318
+  - stations: ["武蔵浦和", "赤羽"]
+    fare: 230
+  - stations: ["武蔵浦和", "三鷹"]
+    fare: 571
+  - stations: ["赤羽", "越谷レイクタウン"]
+    fare: 406
+  - stations: ["赤羽", "板橋"]
+    fare: 167
+  - stations: ["赤羽", "日暮里"]
+    fare: 178
+  - stations: ["越谷レイクタウン", "柏"]
+    fare: 318
+  - stations: ["越谷レイクタウン", "松戸"]
+    fare: 318
+  - stations: ["越谷レイクタウン", "千葉"]
+    fare: 736
+  - stations: ["越谷レイクタウン", "市川"]
+    fare: 571
+  - stations: ["越谷レイクタウン", "新浦安"]
+    fare: 571
+  - stations: ["柏", "土浦"]
+    fare: 682
+  - stations: ["柏", "松戸"]
+    fare: 230
+  - stations: ["柏", "千葉"]
+    fare: 642
+  - stations: ["柏", "市川"]
+    fare: 502
+  - stations: ["柏", "新浦安"]
+    fare: 483
+  # - stations: ["土浦", "柏"]
+  #   fare: 500
+  - stations: ["松戸", "北千住"]
+    fare: 230
+  - stations: ["松戸", "千葉"]
+    fare: 502
+  - stations: ["松戸", "市川"]
+    fare: 406
+  - stations: ["松戸", "新浦安"]
+    fare: 483
+  - stations: ["北千住", "日暮里"]
+    fare: 167
+  - stations: ["千葉", "市川"]
+    fare: 406
+  - stations: ["千葉", "新浦安"]
+    fare: 483
+  - stations: ["市川", "両国"]
+    fare: 230
+  - stations: ["市川", "東京"]
+    fare: 318
+  - stations: ["市川", "新浦安"]
+    fare: 230
+  - stations: ["両国", "上野"]
+    fare: 167
+  - stations: ["両国", "お茶の水"]
+    fare: 146
+  - stations: ["両国", "東京"]
+    fare: 167
+  - stations: ["新浦安", "東京"]
+    fare: 318
+  - stations: ["大船", "横浜"]
+    fare: 318
+  - stations: ["大船", "桜木町"]
+    fare: 318
+  - stations: ["桜木町", "横浜"]
+    fare: 146
+  - stations: ["横浜", "町田"]
+    fare: 406
+  - stations: ["横浜", "立川"]
+    fare: 733
+  - stations: ["横浜", "品川"]
+    fare: 303
+  - stations: ["横浜", "川崎"]
+    fare: 230
+  - stations: ["町田", "立川"]
+    fare: 483
+  - stations: ["町田", "品川"]
+    fare: 736
+  - stations: ["町田", "川崎"]
+    fare: 571
+  - stations: ["立川", "三鷹"]
+    fare: 230
+  - stations: ["立川", "川崎"]
+    fare: 659
+  - stations: ["立川", "品川"]
+    fare: 659
+  - stations: ["三鷹", "西荻窪"]
+    fare: 167
+  - stations: ["三鷹", "横浜"]
+    fare: 824
+  - stations: ["西荻窪", "新宿"]
+    fare: 230
+  - stations: ["代々木", "お茶の水"]
+    fare: 178
+  - stations: ["代々木", "新宿"]
+    fare: 146
+  - stations: ["代々木", "大崎"]
+    fare: 178
+  - stations: ["大崎", "品川"]
+    fare: 146
+  - stations: ["品川", "新橋"]
+    fare: 167
+  - stations: ["品川", "大森"]
+    fare: 167
+  - stations: ["大森", "川崎"]
+    fare: 178
+  - stations: ["羽田", "新橋"]
+    fare: 665
+  - stations: ["羽田", "品川"]
+    fare: 327
+  - stations: ["新橋", "品川"]
+    fare: 167
+  - stations: ["新橋", "東京"]
+    fare: 146
+  - stations: ["東京", "お茶の水"]
+    fare: 146
+  - stations: ["東京", "上野"]
+    fare: 167
+  - stations: ["お茶の水", "新宿"]
+    fare: 178
+  - stations: ["お茶の水", "上野"]
+    fare: 146
+  - stations: ["上野", "日暮里"]
+    fare: 146
+  - stations: ["日暮里", "池袋"]
+    fare: 178
+  - stations: ["板橋", "池袋"]
+    fare: 146
+  - stations: ["池袋", "新宿"]
+    fare: 167
+  - stations: ["池袋", "赤羽"]
+    fare: 167
+  # - stations: ["新宿", ""]
+  #   fare: 500
